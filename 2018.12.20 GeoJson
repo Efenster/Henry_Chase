@@ -1,0 +1,321 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992951,
+          40.71306
+        ]
+      },
+      "properties": {
+        "name": "Mr. Eaton & Mr. & Mrs. Smith",
+        "address": "96 Henry Street",
+        "description": "Mr. Eaton: not In, attends M.C. \nMr. Smith: at sea -- been absent a long time -- not a man of religion but of strict morality -- takes much interest the Mariners Church \nMrs. Smith: is in a serious and inquiring state...said he had never been converted -- but prayed for the blessing but sometimes feared that she would never obtain it -- endeavoured to encourage her seeking -- told her to pray in faith -- that all things are possible to him that believeth. Her aged mother is in a distressed condition -- confined for seventeen years to her room and most of the itme to her bed or chair",
+        "publications distributed": "1 tract, 1 Christian Herald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992819,
+          40.713376
+        ]
+      },
+      "properties": {
+        "name": "Mrs. Wood",
+        "address": "97 Henry Street",
+        "description": "attends M.C. husband died at sea, saw her at Mr. Smiths \nAt Mr Smiths I attended prayer with the old lady -- present Mrs Wood and Mrs. Eaton -- a moving time -- most of them were in tears -- exhorted them",
+        "publications distributed": "1 tract, 1 Christian Herald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003233,
+          40.707336
+        ]
+      },
+      "properties": {
+        "name": "Prayer meeting",
+        "address": "213 Water Street",
+        "description": "Monday evening 14 attended Prayer meeting 213 Water street – Mr. Shipman, Mr. Truair, and a number of the Bethel Union were present – quite a number attended – solemn",
+        "date": "December 14, 1821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988463,
+          40.714849
+        ]
+      },
+      "properties": {
+        "name": "Mr. Baker",
+        "address": "198 Division Street",
+        "description": "Visit 14: saw him from home - gave him some tracts - very friendly - said he attended M.C. Visit 16: not in - wife sometimes attends M.C. himself also",
+        "publications distributed": "1 tract. 1 Christian Herald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996531,
+          40.713042
+        ]
+      },
+      "properties": {
+        "name": "Mr. Peterson",
+        "address": "27 Henry Street",
+        "description": "attends M.C. -- Rigger -- not in -- she seldom attends -- would if she could",
+        "publications distributed": "3 tracts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996274,
+          40.713064
+        ]
+      },
+      "properties": {
+        "name": "Mr. Boyd, Mr. Burseley, Mr. Gammon, Mr. Platt, Mr. Smith",
+        "address": "31 Henry Street",
+        "description": "Mr. Boyd Gone to sea -- wife religious -- belongs to first street -- husband attends M.C. Mr. Burseley: unwell -- sometimes attends M.C. friendly. \nMr. Gammon: Used to follow the sea -- is now in New Orleans -- attended M.C. when here -- family in very low circumstances. \nMr. Platt: at work -- attends M.C. when can -- left two tracts -- and advice. \nMr. Smith: not in -- attends M.C. -- like it much -- has been sick",
+        "publications distributed": "Mr. Boyd: 2 tracts \nMr. Burseley: 2 tracts \nMr. Gammon: 2 tracts \nMr. Platt: 2 tracts \nMr. Smith: 2 tracts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996142,
+          40.712798
+        ]
+      },
+      "properties": {
+        "name": "Mr. Harvey",
+        "address": "36 Henry Street",
+        "description": "given up following the sea -- attends M.C. likes it much",
+        "publications distributed": "3 tracts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995829,
+          40.712627
+        ]
+      },
+      "properties": {
+        "name": "Mr. Speer",
+        "address": "42 Henry Street",
+        "description": "been from home at sea nearly a year -- has lately sent word home -- is expected in the sprint -- she has been but twice to M.C. in a year -- attends Mr. Filtis [?] sometimes -- sometimes first street",
+        "publications distributed": "2 tracts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995453,
+          40.713144
+        ]
+      },
+      "properties": {
+        "name": "Mr. Thompson",
+        "address": "51 Henry Street",
+        "description": "at sea -- wife a Catholic -- when home he attends M.C. & she with him \nTuesday Dec. 21 [1822]… Visited Mr. Thompson and found him dead"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994072,
+          40.713221
+        ]
+      },
+      "properties": {
+        "name": "Mr. Morgan",
+        "address": "69 Henry Street",
+        "description": "man not in -- wife said he got drunk every night -- had trouble enough with him",
+        "publications distributed": "2 tracts - 1 of which was on drunkeness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993895,
+          40.713255
+        ]
+      },
+      "properties": {
+        "name": "Mr. Merchant",
+        "address": "71 Henry Street",
+        "description": "Lately returned from sea -- not in -- attends M.C. when he can",
+        "publications distributed": "2 tracts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993286,
+          40.71331
+        ]
+      },
+      "properties": {
+        "name": "Mr. Green, Mr. Hays",
+        "address": "87 Henry Street",
+        "description": "Mr. Green: gone to sea -- was home but a few days -- before went again -- attended M.C. when home -- liked the meeting -- left three tracts \nMr. Hays: not in -- for some time has attended first street - -because had not much satisfaction in Mr [Wis crossed out] preaching -- she thinks he will attend again",
+        "publications distributed": "Mr. Green: 3 tracts \nMr. Hays: 2 tracts, 1 Christian Herald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992951,
+          40.71306
+        ]
+      },
+      "properties": {
+        "name": "Mr. & Mrs. Eaton, Mr. Smith",
+        "address": "96 Henry Street",
+        "description": "Mr. Eaton: not in -- at his work -- attends M.C. \nMrs. Eaton: wife talked freely on religion -- told the former exercises of her mind -- thinks she once had religion --wept while speaking \nMr. Smith: gone to sea -- been expected home some time -- heard unfavourable news from the ship -- fears he is lost -- I endeavoured to comfort his family \nI visited Mr. Eaton, alongshoreman, who attends the Mariners Church, and his wife likewise when she can leave her children.  They are very friendly, and Mrs. Eaton is, I believe, religious.  They have a Bible, and other religious books",
+        "publications distributed": "Mr. & Mrs. Eaton: 2 tracts \nMr. Smith: 2 tracts, 1 Christian Herald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992819,
+          40.713376
+        ]
+      },
+      "properties": {
+        "name": "Mrs. Head & Mrs. Wood",
+        "address": "97 Henry Street",
+        "description": "Mrs. Head: son just gone to sea \nMrs. Wood: both husbands lost at sea -- very cordial -- had quite a religious conversation -- left one herald and three tracts -- attend M.C. when can -- son of Mrs. Head just going to sea",
+        "publications distributed": "Mrs. Head & Mrs. Wood: 3 tracts, 1 Christian Herald",
+        "date": "December 18, 1821 - January 18, 1822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.992223,
+          40.71298
+        ]
+      },
+      "properties": {
+        "name": "Mr. Cowen & Mr. Wright",
+        "address": "27 Pike Street",
+        "description": "Mr. Cowen: Rigger -- not in -- attends M.C. wife in -- wishes well to the institution -- has no experimental sense of religion \nMr. Wright: Rigger -- not in -- wife not in -- daughter said he attended M.C. constantly -- and mother Sunday evenings. Left an invitation for them to continue their attendance. Visited Mrs. Wright on Jan 2, 1822",
+        "publications distributed": "Mr. Cowen: 3 tracts, 1 Christian herald \nMr. Wright: 2 tracts, 1 Christian Herald",
+        "date": "December 18, 1821 - January 18, 1822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999378,
+          40.710663
+        ]
+      },
+      "properties": {
+        "name": "Mariners Church",
+        "address": "75 Roosevelt Street",
+        "description": "Mariner's Church"
+      }
+    },
+    {
+        "type": "Feature",
+       "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.98776,
+            40.714593
+            ]
+            },
+       "properties": {
+           "name": "Mr. Baker",
+           "address": "198 Division Street",
+           "description": "saw him from home -- gave him some tracts -- very friendly -- said he attended M.C.",
+           "date": "December 18, 1821 - January 18, 1822"
+        }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -74.002375,
+                40.707963
+                ]
+                },
+         "properties": {
+             "name": "Mr. Gardner",
+             "address": "243 Water Street",
+             "description": "prayer meetings there; “Friday evening [December] 15 [1821] attend Bethel union prayer meeting 243 Water. Some interruption by talking in meeting during Mr. B… [?] exhortation – room full – solemn.” ; “Friday evening 8 [March, 1822] at Mr. Gardners 243 Water street, having attended a funeral the day before at the same place on the death Mrs Gardners Brother. The prayer meeting was not large, nor as attentive as usual – Owing, as I supposed, to a very big address and very long prayer from a man present",
+             "date": "February 8, 1822"
+             }
+             },
+         {
+             "type": "Feature",
+             "geometry": {
+             "type": "Point",
+             "coordinates": [
+                 -74.001755,
+                 40.708276
+                 ]
+                 },
+         "properties": {
+             "name": "Mrs. Mansfield",
+             "address": "21 Pike Street",
+             "date": "January 3 1823",
+             "description": "Called on Mrs. Mansfield 21 Pike Street.  Her husband, a Seafaring man, was drowned about a year ago by walking off the dock in a dark night.  Mrs Mansfield attends the Mariners Church as often as possible, is much pleased indeed with it, has opened her own door for prayer meetings, and appears anxious about her soul.  I left her a tract. \nI attended prayer meeting in the evening at Mrs. Mansfields 21 Pike Street. Mr. Clark, a sailor, opened the meeting by reading a Psalm from the Bible, which he followed by a prayer and some remarks.  Among other things he exhorted parents to take their children one by one alone, and there talk to them & pray with them.  He was followed by Mr ... a Norwegian & a sailor, who commended by speaking of the sincerity and solemnity with which we should perform our religious exercises, for God is a consuming fire.  He adverted, with much feeling, to his former wickedness when he followed the sea, and frequently prayed to God to snd the ship, cargo, captain and crew, all to the Devil. He said he was scared from the consequences of his own prayers, by the contrary prayers of his friends upon the shore.  After him, Mr. Peter Smith, sailor, spoke a few words and offered up a prayer with much apparent humility and sincerity.  I gave some remarks and closed by prayer.  There were nto many present, but the meeting was very solemn and interesting.  After meeting was closed, a sailor said, 'If you have patience I will sing a few verses,' and then began in a clear shrill musical voice ‘From whence doth this union arise, that hatred is conquered by love, it fastens our souls in such ties, that nature and time can’t remove.'  We then separated, and some left the place with much reluctance.  On my way home I had some conversation with Mr. Smith, who professes lately to have experienced religion.  Sometime last winter on a voyage his mind was solemnly arrested by the fall of two men overboard, one particularly almost with an oath in his mouth, both met a watery grave.  When he arrived home, his mind was yet more powerfully arrested by finding his wife anxious, who, by attending the Mariners Church (under religious exercises) had become anxious about her soul.  A few weeks ago he professes to have found peace, having previously seen himself to be a wretched and undone sinner, justly exposed to hell and deserving to be case off forever.  He now views Jesus Christ as the only Saviour, to whom he has been enabled to flee for refuge,.  I plainly told him the temptations to which he would be exposed, and exhorted him to perseverance and to set a good example before his shipmates, and do all the good he can in the world.  Visits 5. Meetings for prayer 1"
+ 			 }
+  			 },
+  	     {
+  	     	"type": "Feature",
+  	     	"geometry": {
+  	     	"type": "MultiLineString",
+  	     	"coordinates": 
+  	     	[[[-73.99811,40.70997],[-73.99802,40.70954]],[[-73.99802,40.70954],[-73.99787,40.70899]]]
+  	     	},
+  	     "properties": {
+  	     	"name": "James Street",
+  	     	"description": "Location of New Slip"
+  	     	}
+  	     	}  	
+  ]
+}
